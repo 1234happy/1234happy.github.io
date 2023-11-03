@@ -9,7 +9,9 @@ redirect_from:
 <!-- 
 I am now a post-doc at the Department of Computing, Imperial College London, supervised by Dr. Ben Glocker in BioMedIA. Before that, I obtained my Ph.D. degree in the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by Prof. Pheng Ann Heng in July 2018. I received B. Eng. degree in Biomedical Engineering from Beihang University (BUAA) in Beijing, June 2014. I worked with Dr. Yan Xu for undergraduate research in MSRA.-->
 
-
+Research Interests
+======
+Computer Vision, Multimodal AI, Transfer Learning, Open Set Recognition, Face Anti-Spoofing, Face Forgery Detection 
 
 Education
 ======
