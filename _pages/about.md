@@ -36,6 +36,7 @@ Work experience
 
 Publications
 ======
+* Jiang F, Li Q, Wang W, et al. Open-Set Single-Domain Generalization for Robust Face Anti-Spoofing[J]. International Journal of Computer Vision, 2024: 1-22.
 * Fangling Jiang, Yunfan Liu, Haolin Si, Jingjing Meng, Qi Li. Cross-scenario Unknown-Aware Face Anti-spoofing with Evidential Semantic Consistency Learning[J]. IEEE Transactions on Information Forensics and Security，2024.
 * Jiang, Fangling, Qi Li, Pengcheng Liu, Xiang-Dong Zhou, and Zhenan Sun. Adversarial learning domain-invariant conditional features for robust face anti-spoofing[J]. International Journal of Computer Vision, 2023, 131: 1680-1703.
 * Fangling Jiang，Pengcheng Liu，Xiang-Dong Zhou. Ordinal regression with representative feature strengthening for face anti-spoofing[J]. Neural Computing and Applications, 2022, 34(18):15963-15979. 
